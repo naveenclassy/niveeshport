@@ -1,0 +1,16 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.bg1{
+    background-image: url('images/bg2.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px 0px;
+
+}
+.aboutsector{
+    background-color: #b3cec7;
+}
+.last{
+    background-color: #ead9cf;
+}
